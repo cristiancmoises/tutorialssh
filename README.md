@@ -1,7 +1,8 @@
 ![ssh](https://user-images.githubusercontent.com/86272521/187820053-3978fbc1-f756-4c10-b790-5f3e3bf1dde5.png)
 
 # SSH - ED25519 - Increasing Security on Servers
-> Video on YT: https://youtu.be/qgxupo8HJJw
+> Video on YT (PT-BR): https://youtu.be/qgxupo8HJJw
+> Para a versão em português deste readme clique [aqui](https://github.com/cristiancmoises/tutorialssh/blob/main/LEIAME.md)
 ---------
 TUTORIAL:
 ---------
@@ -27,11 +28,11 @@ CUSTOMIZING:
 PASTE INSIDE THE FILE:
 -----------------------------------------------
  >Host yourcustomnamehere
- HostName YOURSERVERNAME CUSTOMIZED HERE
- Port YOURACCESSPORTHERE
- User USERNAME HERE
- IdentityFile ~/.ssh/id_ed25519
- IdentitiesOnly yes
+ >HostName YOURSERVERNAME CUSTOMIZED HERE
+ >Port YOURACCESSPORTHERE
+ >User USERNAME HERE
+ >IdentityFile ~/.ssh/id_ed25519
+ >IdentitiesOnly yes
 
 CLOSE AND SAVE: Ctrl + X (to close), Y (to save)
 --------------------------------------------------
