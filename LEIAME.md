@@ -24,14 +24,15 @@ CUSTOMIZANDO:
 --------------
 >nano ~/.ssh/config
 
-COLE DENTRO DO ARQUIVO:
 -----------------------------------------------
- >Host seunomecustomizadoaqui                 
- HostName NOMEDOSEUSERVIDORCUSTOMIZADOAQUI   
- Port SUAPORTADEACESSOAQUI                   
- User NOMEDEUSUARIOAQUI                      
- IdentityFile ~/.ssh/id_ed25519              
- IdentitiesOnly yes                          
+| COLE DENTRO DO ARQUIVO: |
+ |---|
+| Host seunomecustomizadoaqui   |              
+ |HostName NOMEDOSEUSERVIDORCUSTOMIZADOAQUI  | 
+ |Port SUAPORTADEACESSOAQUI  |                 
+ |User NOMEDEUSUARIOAQUI      |                
+ |IdentityFile ~/.ssh/id_ed25519 |             
+ |IdentitiesOnly yes          |                
 
 FECHE E SALVE: Ctrl + X (para fechar), Y (para salvar)
 --------------------------------------------------
