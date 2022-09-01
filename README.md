@@ -25,14 +25,15 @@ CUSTOMIZING:
 --------------
 >nano ~/.ssh/config
 
-PASTE INSIDE THE FILE:
------------------------------------------------
- >Host yourcustomnamehere
- >HostName YOURSERVERNAME CUSTOMIZED HERE
- >Port YOURACCESSPORTHERE
- >User USERNAME HERE
- >IdentityFile ~/.ssh/id_ed25519
- >IdentitiesOnly yes
+| PASTE INSIDE THE FILE: |
+|---|
+| Host yourcustomnamehere  |
+| HostName YOURSERVERNAME CUSTOMIZED HERE  |
+| User USERNAME HERE  |
+| IdentityFile ~/.ssh/id_ed25519  |
+| IdentitiesOnly yes  |
+
+ 
 
 CLOSE AND SAVE: Ctrl + X (to close), Y (to save)
 --------------------------------------------------
