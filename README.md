@@ -1,8 +1,3 @@
-Translation types
-Text translation
-Source text
-1,358 / 5,000
-Translation results
 ![ssh](https://user-images.githubusercontent.com/86272521/187820053-3978fbc1-f756-4c10-b790-5f3e3bf1dde5.png)
 
 # SSH - ED25519 - Increasing Security on Servers
@@ -48,7 +43,4 @@ TUTORIAL (In EN):
 
 READ MORE:
 >https://ed25519.cr.yp.to/
-More about this source text
-Source text required for additional translation information
-Send feedback
-Side panels
+
