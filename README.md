@@ -19,7 +19,7 @@ ADD KEY TO SSH AGENT:
 
 SPECIFY THE KEY FOR YOUR SERVER:
 ---------------------------------------
->ssh -i ~/.ssh/id_ed25519 usuarioaqui@servidoraqui
+>ssh -i ~/.ssh/id_ed25519 -p YOURPORTHERE usuarioaqui@servidoraqui
 
 CUSTOMIZING:
 --------------
